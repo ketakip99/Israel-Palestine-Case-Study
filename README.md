@@ -1,34 +1,34 @@
-# Statistical Analysis of Fatalities – Israel-Palestine Conflict (2000–2023)
+# 📊 Statistical Case Study | Israel-Palestine Conflict Fatalities
 
 ## Overview
-This case study presents a statistical exploration of conflict-related fatalities between Israel and Palestine. It examines patterns, demographics, and causes using comprehensive univariate and bivariate analysis.
+This case study conducts a deep statistical analysis of conflict-related fatalities from 2000 to 2023 in the Israel-Palestine region. Using descriptive and inferential techniques, it uncovers trends related to age, gender, region, and conflict patterns.
 
 ## Team
 - Ketaki Paranjape
-- Rajasi Barapatre
+- Rajasi Barapatre  
 - Sanika Chavan
 
 ## Dataset
-- Source: Kaggle
-- 11,000+ records | 16 columns
-- Variables include age, gender, location, ammunition type, date of event, and more
+- Source: Kaggle  
+- Records: 11,124 entries  
+- Attributes: Age, Gender, Location, Citizenship, Ammunition, Cause of Death, etc.
 
-## Key Insights
-- 91% of deaths caused by gunfire
-- Male victims: 87% of total
-- Most violent year: 2014
-- Leading regions: Gaza Strip and West Bank
-
-## Analyses Performed
-- Distribution analysis (Age, Gender, Citizenship)
-- Event frequency by month/year
-- Heatmaps and correlation plots
-- Outlier detection using IQR
+## Analytical Dimensions
+- 📈 Univariate Analysis: Age distributions, injury types, event frequency by month/year.
+- 📊 Bivariate Analysis: Gender vs injury type, region vs fatalities, citizenship vs event location.
+- 🔍 Outlier Detection: IQR-based filtering on age data.
+- 🧪 Descriptive Stats: Skewness, kurtosis, percentile breakdowns.
 
 ## Tools Used
-- Python, Pandas, Matplotlib, Seaborn
-- Scipy, Statsmodels
+- Python (Pandas, NumPy, Scipy)  
+- Matplotlib, Seaborn, Statsmodels  
 - Google Colab
 
-## Conclusion
-This study leverages statistical tools to extract meaningful patterns from a large and sensitive dataset. It highlights the power of data in contextualizing humanitarian issues.
+## Key Findings
+- Highest fatalities recorded in 2014.
+- 87% of casualties were male.
+- Gunfire accounted for 91% of deaths.
+- Majority victims were Palestinian citizens in Gaza.
+
+## Outcome
+The study offers a statistically grounded perspective on one of the most complex humanitarian crises. It demonstrates the power of data analytics in drawing meaning from large-scale, sensitive datasets.
