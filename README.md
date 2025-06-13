@@ -1,7 +1,7 @@
-# 📊 Statistical Case Study | Israel-Palestine Conflict Fatalities (2000 - 2023)
+# 📊 Statistical Case Study | Geopolitical Conflict Fatalities (2000 - 2023)
 
 ## Overview
-This case study conducts a deep statistical analysis of conflict-related fatalities from 2000 to 2023 in the Israel-Palestine region. Using descriptive and inferential techniques, it uncovers trends related to age, gender, region, and conflict patterns.
+This case study conducts a deep statistical analysis of conflict-related fatalities from 2000 to 2023. Using descriptive and inferential techniques, it uncovers trends related to age, gender, region, and conflict patterns.
 
 ## Team
 - Ketaki Paranjape
@@ -28,7 +28,6 @@ This case study conducts a deep statistical analysis of conflict-related fatalit
 - Highest fatalities recorded in 2014.
 - 87% of casualties were male.
 - Gunfire accounted for 91% of deaths.
-- Majority victims were Palestinian citizens in Gaza.
 
 ## Outcome
 The study offers a statistically grounded perspective on one of the most complex humanitarian crises. It demonstrates the power of data analytics in drawing meaning from large-scale, sensitive datasets.
